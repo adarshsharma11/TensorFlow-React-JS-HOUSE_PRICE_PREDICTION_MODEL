@@ -19,9 +19,9 @@ This project demonstrates a simple machine learning example using **TensorFlow.j
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/adarshsharma11/TensorFlow-Recat-JS-HOUSE_PRICE_PREDICTION_MODEL.git
+   git clone https://github.com/adarshsharma11/TensorFlow-React-JS-HOUSE_PRICE_PREDICTION_MODEL.git
 
-   cd TensorFlow-Recat-JS-HOUSE_PRICE_PREDICTION_MODEL
+   cd TensorFlow-React-JS-HOUSE_PRICE_PREDICTION_MODEL
 
    yarn & yarn dev
 
